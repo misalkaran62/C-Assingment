@@ -1,4 +1,4 @@
-//write the porogam even or odd ternary (conditionl)
+// write the porogam even or odd ternary (conditionl)
 
 #include <stdio.h>
 int main()
@@ -8,7 +8,7 @@ int main()
     scanf("%d", &num);
 
     (num % 2 == 0) ? printf("The number is even") : printf("The number is odd");
-    
-    return 0;
 
+    return 0;
+    
 }
