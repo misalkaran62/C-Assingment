@@ -18,7 +18,7 @@ int main()
     printf("percentage =%.2f%%\n", percentage);
 
     if (percentage >= 60)
-        printf(" class I \n");git 
+        printf(" class I \n");
     else if (percentage >= 50)
         printf("Class II \n");
     else if (percentage >= 35)
