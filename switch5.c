@@ -28,9 +28,8 @@ int main()
     case 7:
         printf("Sunday\n");
         break;
-
     default:
-    printf("Enter the valid input (1to7 days)");
+        printf("Enter the valid input (1to7 days)");
     }
     return 0;
 }
