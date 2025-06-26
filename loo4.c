@@ -6,7 +6,7 @@ int main()
     printf("Enter the Number to print:");
     scanf("%d", &n);
 
-    for (i = 1; i <= 150; i++)
+    for (i = 100; i <= 150; i++)
     {
         printf("\nHELLO WORLD!");
     }
