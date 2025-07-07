@@ -1,4 +1,5 @@
 // Check whether a number is a palindrome or not.
+//mence number is same mining to  read to back or front are same mineing
 #include <stdio.h>
 void main()
 {
